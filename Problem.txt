@@ -1,0 +1,4 @@
+Attempt the following by writing C++ code and using conditional operators
+determine:
+Write a program using conditional operators to determine whether a year entered through
+the keyboard is a leap year or not.
